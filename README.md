@@ -15,7 +15,7 @@ This is a web application for managing employees and departments using the MERN 
 - MongoDB 
 # Installation
 - Clone the repository:
-git clone https://github.com/Tola-lemma/Employee-management-using-MERN-stack.git
+git clone https://github.com/MohitPatel2170/employee-management.git
 - Install dependencies:
 `npm install`
 - Create a `.env` file and add your MongoDB connection URI:
